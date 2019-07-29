@@ -1,2 +1,2 @@
 # TripPlannerFE
-Frontend for the Trip Planner application
+Frontend project for the Trip Planner application
